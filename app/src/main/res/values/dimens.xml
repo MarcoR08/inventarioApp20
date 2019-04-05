@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item.product.height">128dp</dimen>
+    <dimen name="common.item.cornerRadius">4dp</dimen>
+    <dimen name="item.product.text.padding">4dp</dimen>
+</resources>

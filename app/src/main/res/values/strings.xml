@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">inventarioApp2.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_product_count">Nombre:\nCantidad:\nFecha:</string>
+    <string name="item_product_data">%s \n(x%s)</string>
+    <string name="item_ventas_data">%s \n(x%s)\n(x%s)</string>
+</resources>
